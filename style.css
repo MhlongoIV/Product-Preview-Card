@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FBCC9D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 125px
+}
+
+.container {
+    background-color: white;
+    width: 50%;
+    height: 75%;
+    padding: 20px
+}
+
+#text-section {
+
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+.product-description {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500
+}
+
+#product-name {
+    font-family: 'Fraunces', serif;
+    font-weight: 700
+}
+
+
+
